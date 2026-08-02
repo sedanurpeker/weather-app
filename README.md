@@ -1,38 +1,34 @@
-# Hava Durumu Uygulaması
+# Weather App
 
-Bu proje, **HTML**, **CSS** ve **JavaScript** kullanılarak geliştirilmiş basit bir hava durumu uygulamasıdır. Kullanıcıdan aldığı şehir adına göre **OpenWeather API** üzerinden hava durumu bilgilerini getirir.
+A simple weather app built with **HTML**, **CSS**, and **JavaScript** that fetches weather data from the **OpenWeather API** based on a city name entered by the user.
 
----
+## ✨ Features
 
-## Özellikler
-- Anlık sıcaklık bilgisi
-- Nem oranı
-- Rüzgar hızı
-- Dinamik şehir arama
-- Modern ve responsive tasarım
+- Real-time temperature
+- Humidity level
+- Wind speed
+- Dynamic city search
+- Modern, responsive design
 
----
+## 📸 Screenshot
 
-## Ekran Görüntüsü
-![# Hava-Durumu
- Bu proje HTML, CSS ve JavaScript kodlarını içermektedir.
-](https://github.com/sedanurpeker/Hava-Durumu/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-10%20225753.png)
+![Weather App Screenshot](screenshot.png)
 
----
+## 🛠 Technologies Used
 
-## Kullanılan Teknolojiler
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
 - OpenWeather API
 
----
+## ⚙️ Getting Started
 
-## Kurulum ve Kullanım
-1. Projeyi klonlayın:
-   ```bash
-   git clone https://github.com/kullanici-adi/hava-durumu.git
-2. OpenWeather API üzerinden API anahtarınızı alın.
-3. script.js dosyasındaki API_KEY değişkenini kendi anahtarınızla değiştirin.
-4. index.html dosyasını tarayıcıda açın.
+1. Clone the repository:
 
+```bash
+git clone https://github.com/sedanurpeker/weather-app.git
+```
+
+2. Get your own API key from [OpenWeather](https://openweathermap.org/api).
+3. Replace the `API_KEY` variable in `script.js` with your own key.
+4. Open `index.html` in your browser.
