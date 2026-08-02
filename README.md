@@ -12,7 +12,7 @@ A simple weather app built with **HTML**, **CSS**, and **JavaScript** that fetch
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](Ekran%20görüntüsü%202025-08-10%20225753.png)
 
 ## 🛠 Technologies Used
 
