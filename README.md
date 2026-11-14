@@ -2,7 +2,7 @@
 
 A simple weather app built with **HTML**, **CSS**, and **JavaScript** that fetches weather data from the **OpenWeather API** based on a city name entered by the user.
 
-## ✨ Features
+##  Features
 
 - Real-time temperature
 - Humidity level
@@ -10,18 +10,18 @@ A simple weather app built with **HTML**, **CSS**, and **JavaScript** that fetch
 - Dynamic city search
 - Modern, responsive design
 
-## 📸 Screenshot
+##  Screenshot
 
 ![Weather App Screenshot](Ekran%20görüntüsü%202025-08-10%20225753.png)
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
 - OpenWeather API
 
-## ⚙️ Getting Started
+##  Getting Started
 
 1. Clone the repository:
 
